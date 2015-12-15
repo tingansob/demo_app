@@ -1,1 +1,2 @@
-This is The FreeDOME Express demo app. Just a test though
+This is The FreeDOME Express demo app. 
+This is just a test though

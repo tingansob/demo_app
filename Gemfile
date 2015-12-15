@@ -54,4 +54,6 @@ group :development do
   gem 'spring'
 end
 gem "haml"
-gem "bootstrap"
+gem 'bootstrap-sass', '~> 3.3.6'
+gem 'bootstrap'
+gem 'autoprefixer-rails'
